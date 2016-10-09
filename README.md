@@ -69,3 +69,8 @@ onTouchEvent
       默认的onInterceptTouchEvent会返回false
   
 ![img_viewgroup](/ViewEvent_ViewGroup.png)  
+
+### 参考
+[源码分析1](http://blog.csdn.net/guolin_blog/article/details/9097463)
+[源码分析2](http://blog.csdn.net/sinyu890807/article/details/9153747)
+
